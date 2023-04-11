@@ -1,1 +1,1 @@
-# Wellness-Check-Solution_PowerApps-Project
+# Wellness Check Solution (PowerApps Project)
